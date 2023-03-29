@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jefti
 - 👀 I’m interested in learn about programming and civil engeneering
-- 🌱 I’m currently learning SWMM
+- 🌱 I’m currently learning HTML/CSS/JAVASCRIPT
 - 💞️ I’m looking to collaborate on new researchs about hidrology
 - 📫 How to reach me ? by email: jeftimeira@gmail.com
 
