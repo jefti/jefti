@@ -6,11 +6,11 @@ Desenvolvedor Full Stack | JavaScript | React | Software Developer | Front-end e
 
 Sou um desenvolvedor Full Stack com formação nas tecnologias React.js e Node.js. Iniciei minha jornada na área de informática em 2013 com o curso de técnico em informática, concluído em 2016. Foi no meu curso técnico que tive meu primeiro contrato com a programação, aprendendo um pouco de Java, Python, MySQL e outras linguagens.
 
-No ensino superior me aventurei pela área da engenharia civil, área que decidi abandonar em 2023 por falta de oportunidades. Minha trajetória profissional teve um ponto de virada quando, após concluir uma graduação em engenharia civil, decidi migrar para a área de desenvolvimento de software. Essa mudança reflete minha busca de uma profissão onde possa transformar o conhecimento que adquiro em realidade.
+No ensino superior me aventurei pela área da engenharia civil, mas minha trajetória profissional teve um ponto de virada quando decidi migrar para a área de desenvolvimento de software após a conclusão do curso. Meu principal motivo para retornar a área da tecnologia foi a procura por 
 
 Durante minha formação superior ainda tive alguns contatos com linguagens de programação, como a linguagem para análise de dados conhecida como R. Meu trunfo foi a linguagem Visual Basic for Applications que me destacou entre outros voluntários e me rendeu uma bolsa de estudos junto ao parque tecnológico da Paraíba.
 
-Atualmente, estou em 90% do curso de formação Full Stack pela Driven Education e a procura de oportunidades no mercado de trabalho para começar a atuar na área de desenvolvimento. Ao longo do último ano, tive a oportunidade de construir mais de 20 projetos web, onde pude aplicar e expandir meus conhecimentos em diversas tecnologias e práticas de desenvolvimento.
+Ao longo do último ano, tive a oportunidade de construir mais de 20 projetos web Full Stack com outros programadores do país inteiro. Atualmente, estou em 90% do curso de formação Full Stack pela Driven Education e procurando uma vaga no mercado de trabalho para atuar profissionalmente na área de desenvolvimento
 ### Meus contatos:
 <div align="left">
   <a href="jeftimeira@gmail.com" target="_blank">
