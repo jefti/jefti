@@ -29,7 +29,7 @@ Ao longo do último ano, tive a oportunidade de construir mais de 20 projetos we
 - [x] Mais de 20 projetos programados.
 - [ ] Trabalhando como desenvolvedor.
 
-## Principais tecnologias:
+## Principais tecnologias
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  title="javascript" />
   <img width="12" />
@@ -46,7 +46,7 @@ Ao longo do último ano, tive a oportunidade de construir mais de 20 projetos we
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  title="Jest"/>
 </div>
 
-## Tive experiência com:
+## Tive experiência com
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
@@ -58,7 +58,7 @@ Ao longo do último ano, tive a oportunidade de construir mais de 20 projetos we
 
 ###
 
-## Tenho planos para estudar:
+## Tenho planos para estudar
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  title="Angular"/>
   <img width="12" />
