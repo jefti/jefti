@@ -10,7 +10,7 @@ No ensino superior me aventurei pela área da engenharia civil, mas minha trajet
 
 Durante minha formação superior ainda tive alguns contatos com linguagens de programação, como a linguagem para análise de dados conhecida como R. Meu trunfo foi a linguagem Visual Basic for Applications que me destacou entre outros voluntários e me rendeu uma bolsa de estudos junto ao parque tecnológico da Paraíba.
 
-Ao longo do último ano, tive a oportunidade de construir mais de 20 projetos web Full Stack com outros programadores do país inteiro. Atualmente, estou em 90% do curso de formação Full Stack pela Driven Education e procurando uma vaga no mercado de trabalho para atuar profissionalmente na área de desenvolvimento
+Ao longo do último ano, tive a oportunidade de construir mais de 20 projetos web Full Stack com outros programadores do país inteiro. No momento, estou em 90% do curso de formação Full Stack pela Driven Education e procurando uma vaga no mercado de trabalho para atuar profissionalmente na área de desenvolvimento
 ### Meus contatos
 <div align="left">
   <a href="mailto:jeftimeira@gmail.com" target="_blank">
