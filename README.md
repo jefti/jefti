@@ -6,7 +6,7 @@ Desenvolvedor Full Stack | React | Node | Técnico em Informática
 
 Sou um desenvolvedor Full Stack com formação nas tecnologias React.js e Node.js. Iniciei minha jornada na área de informática em 2013 com o curso de técnico em informática, concluído em 2016. Foi no meu curso técnico que tive meu primeiro contrato com a programação, aprendendo um pouco de Java, Python, MySQL e outras linguagens.
 
-No ensino superior me aventurei pela área da engenharia civil, mas minha trajetória profissional teve um ponto de virada quando decidi migrar para a área de desenvolvimento de software após a conclusão do curso. Meu principal motivo para retornar a área da tecnologia foi a procura por 
+No ensino superior me aventurei pela área da engenharia civil, mas minha trajetória profissional teve um ponto de virada quando decidi migrar para a área de desenvolvimento de software após a conclusão do curso. Encontrei novamente na área de tecnologia a oportunidade de transformar o meu esforço em resultados, solidificando o meu conhecimento em aplicações práticas.
 
 Durante minha formação superior ainda tive alguns contatos com linguagens de programação, como a linguagem para análise de dados conhecida como R. Meu trunfo foi a linguagem Visual Basic for Applications que me destacou entre outros voluntários e me rendeu uma bolsa de estudos junto ao parque tecnológico da Paraíba.
 
