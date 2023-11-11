@@ -6,9 +6,9 @@ Desenvolvedor Full Stack | React | Node | Técnico em Informática
 
 Sou um desenvolvedor Full Stack com formação nas tecnologias React.js e Node.js. Iniciei minha jornada na área de informática em 2013 com o curso de técnico em informática, concluído em 2016. Foi no meu curso técnico que tive meu primeiro contato com a programação, aprendendo um pouco de Java, Python, MySQL e outras linguagens.
 
-No ensino superior me aventurei pela área da engenharia civil, mas minha trajetória profissional teve um ponto de virada quando decidi retornar para a informática após a conclusão do curso. Durante minha formação superior tive contato com algumas linguagens de programação, principalmente linguagens para análise de dados como MatLab e R.
+No ensino superior me aventurei pela área da engenharia civil, mas minha trajetória profissional teve um ponto de virada quando decidi retornar para a informática após a conclusão do curso. Voltei para a área de desenvolvimento de softwares por que nela consigo transformar minha dedicação nos estudos em resultados práticos, dinâmica que nunca tive oportunidade de vivenciar após 6 anos na engenharia civil.
 
-Meu trunfo foi a linguagem Visual Basic for Applications que me destacou entre outros voluntários e me rendeu uma bolsa de estudos junto ao parque tecnológico da Paraíba. Graças a essa bolsa consegui me manter na faculdade até a conclusão, mesmo durante a pandemia. Voltei para a área de desenvolvimento de softwares por que nela consigo transformar minha dedicação nos estudos em resultados práticos, dinâmica que nunca tive oportunidade de vivenciar após 6 anos na engenharia civil.
+Durante minha formação superior tive contato com algumas linguagens de programação, principalmente linguagens para análise de dados como MatLab e R. Meu trunfo foi a linguagem Visual Basic for Applications que me destacou entre outros voluntários e me rendeu uma bolsa de estudos junto ao parque tecnológico da Paraíba. Graças a essa bolsa consegui me manter na universidade até a conclusão, mesmo durante a pandemia.
 
 Ao longo do último ano construí mais de 20 projetos web Full Stack com outros programadores do país inteiro. No momento, estou em 90% do curso de formação Full Stack pela Driven Education e procurando uma vaga no mercado de trabalho para atuar profissionalmente na área de desenvolvimento.
 
