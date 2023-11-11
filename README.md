@@ -13,7 +13,7 @@ Durante minha formação superior ainda tive alguns contatos com linguagens de p
 Ao longo do último ano, tive a oportunidade de construir mais de 20 projetos web Full Stack com outros programadores do país inteiro. Atualmente, estou em 90% do curso de formação Full Stack pela Driven Education e procurando uma vaga no mercado de trabalho para atuar profissionalmente na área de desenvolvimento
 ### Meus contatos
 <div align="left">
-  <a href="jeftimeira@gmail.com" target="_blank">
+  <a href="mailto:jeftimeira@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  title="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/jefti-vinicius/" target="_blank">
