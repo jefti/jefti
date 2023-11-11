@@ -11,7 +11,7 @@ No ensino superior me aventurei pela área da engenharia civil, mas minha trajet
 Durante minha formação superior ainda tive alguns contatos com linguagens de programação, como a linguagem para análise de dados conhecida como R. Meu trunfo foi a linguagem Visual Basic for Applications que me destacou entre outros voluntários e me rendeu uma bolsa de estudos junto ao parque tecnológico da Paraíba.
 
 Ao longo do último ano, tive a oportunidade de construir mais de 20 projetos web Full Stack com outros programadores do país inteiro. Atualmente, estou em 90% do curso de formação Full Stack pela Driven Education e procurando uma vaga no mercado de trabalho para atuar profissionalmente na área de desenvolvimento
-### Meus contatos:
+### Meus contatos
 <div align="left">
   <a href="jeftimeira@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  title="Gmail"/>
@@ -29,7 +29,7 @@ Ao longo do último ano, tive a oportunidade de construir mais de 20 projetos we
 - [x] Mais de 20 projetos programados.
 - [ ] Trabalhando como desenvolvedor.
 
-## Principais tecnologias
+## Principais tecnologias:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  title="javascript" />
   <img width="12" />
