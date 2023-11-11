@@ -4,7 +4,7 @@ Desenvolvedor Full Stack | JavaScript | React | Software Developer | Front-end e
 
 ## Sobre mim
 
-Sou um desenvolvedor Full Stack com formação nas tecnologias React.js e Node.js. Iniciei minha jornada na área de informática em 2013 com o curso de técnico em informática, concluído em 2016. Foi no meu curso técnico que tive meu primeiro contrato com a programação, aprendendo um pouco de Java, Python e MySQL e outras linguagens.
+Sou um desenvolvedor Full Stack com formação nas tecnologias React.js e Node.js. Iniciei minha jornada na área de informática em 2013 com o curso de técnico em informática, concluído em 2016. Foi no meu curso técnico que tive meu primeiro contrato com a programação, aprendendo um pouco de Java, Python, MySQL e outras linguagens.
 
 No ensino superior me aventurei pela área da engenharia civil, área que decidi abandonar em 2023 por falta de oportunidades. Minha trajetória profissional teve um ponto de virada quando, após concluir uma graduação em engenharia civil, decidi migrar para a área de desenvolvimento de software. Essa mudança reflete minha busca de uma profissão onde possa transformar o conhecimento que adquiro em realidade.
 
