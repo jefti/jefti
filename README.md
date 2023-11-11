@@ -46,7 +46,7 @@ Atualmente, estou em 90% do curso de formação Full Stack pela Driven Education
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  title="Jest"/>
 </div>
 
-## Já trabalhei com:
+## Tive experiência com:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
