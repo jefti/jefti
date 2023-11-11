@@ -19,9 +19,6 @@ Atualmente, estou em 90% do curso de formação Full Stack pela Driven Education
   <a href="https://www.linkedin.com/in/jefti-vinicius/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  title="Linkedin"/>
   </a>
-  <a href="https://wa.me/5583999633138" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  title="Whatsapp"/>
-  </a>
 </div>
 
 
