@@ -4,13 +4,14 @@ Desenvolvedor Full Stack | React | Node | Técnico em Informática
 
 ## Sobre mim
 
-Sou um desenvolvedor Full Stack com formação nas tecnologias React.js e Node.js. Iniciei minha jornada na área de informática em 2013 com o curso de técnico em informática, concluído em 2016. Foi no meu curso técnico que tive meu primeiro contrato com a programação, aprendendo um pouco de Java, Python, MySQL e outras linguagens.
+Sou um desenvolvedor Full Stack com formação nas tecnologias React.js e Node.js. Iniciei minha jornada na área de informática em 2013 com o curso de técnico em informática, concluído em 2016. Foi no meu curso técnico que tive meu primeiro contato com a programação, aprendendo um pouco de Java, Python, MySQL e outras linguagens.
 
-No ensino superior me aventurei pela área da engenharia civil, mas minha trajetória profissional teve um ponto de virada quando decidi migrar para a área de desenvolvimento de software após a conclusão do curso. Encontrei novamente na área de tecnologia a oportunidade de transformar o meu esforço em resultados, solidificando o meu conhecimento em aplicações práticas.
+No ensino superior me aventurei pela área da engenharia civil, mas minha trajetória profissional teve um ponto de virada quando decidi retornar para a informática após a conclusão do curso. Durante minha formação superior tive contato com algumas linguagens de programação, principalmente linguagens para análise de dados como MatLab e R.
 
-Durante minha formação superior ainda tive alguns contatos com linguagens de programação, como a linguagem para análise de dados conhecida como R. Meu trunfo foi a linguagem Visual Basic for Applications que me destacou entre outros voluntários e me rendeu uma bolsa de estudos junto ao parque tecnológico da Paraíba.
+Meu trunfo foi a linguagem Visual Basic for Applications que me destacou entre outros voluntários e me rendeu uma bolsa de estudos junto ao parque tecnológico da Paraíba. Graças a essa bolsa consegui me manter na faculdade até a conclusão, mesmo durante a pandemia. Voltei para a área de desenvolvimento de softwares por que nela encontrei o espaço para transformar minha dedicação nos estudos em resultados práticos, dinâmica que nunca tive oportunidade de vivenciar após 6 anos na engenharia civil.
 
-Ao longo do último ano, tive a oportunidade de construir mais de 20 projetos web Full Stack com outros programadores do país inteiro. No momento, estou em 90% do curso de formação Full Stack pela Driven Education e procurando uma vaga no mercado de trabalho para atuar profissionalmente na área de desenvolvimento
+Ao longo do último ano construí mais de 20 projetos web Full Stack com outros programadores do país inteiro. No momento, estou em 90% do curso de formação Full Stack pela Driven Education e procurando uma vaga no mercado de trabalho para atuar profissionalmente na área de desenvolvimento.
+
 ### Meus contatos
 <div align="left">
   <a href="mailto:jeftimeira@gmail.com" target="_blank">
