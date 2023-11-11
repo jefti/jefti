@@ -1,6 +1,6 @@
 # 𝐉𝐞𝐟𝐭𝐢 𝐕𝐢𝐧𝐢𝐜𝐢𝐮𝐬 𝐌𝐞𝐢𝐫𝐚 𝐃𝐚𝐧𝐭𝐚𝐬
 
-Desenvolvedor Full Stack | JavaScript | React | Software Developer | Front-end e Back-end | Node | TypeScript | Técnico em Informática
+Desenvolvedor Full Stack| React | Node | Técnico em Informática
 
 ## Sobre mim
 
