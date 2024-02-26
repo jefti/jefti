@@ -22,14 +22,6 @@ Ao longo do último ano construí mais de 20 projetos web Full Stack com outros 
   </a>
 </div>
 
-
-## Conquistas
-
-- [x] Técnico em informática.
-- [x] Full Stack Developer.
-- [x] Mais de 20 projetos programados.
-- [ ] Trabalhando como desenvolvedor.
-
 ## Principais tecnologias
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  title="javascript" />
@@ -59,14 +51,6 @@ Ao longo do último ano construí mais de 20 projetos web Full Stack com outros 
 
 ###
 
-## Tenho planos para estudar
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  title="Angular"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  title="PHP"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  title="Laravel"/>
-</div>
 
  
 ## 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
