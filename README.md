@@ -10,7 +10,7 @@ No ensino superior me aventurei pela área da engenharia civil, mas minha trajet
 
 Durante minha formação superior tive contato com algumas linguagens de programação, principalmente linguagens para análise de dados como MatLab e R. Meu trunfo foi a linguagem Visual Basic for Applications que me destacou entre outros voluntários e me rendeu uma bolsa de estudos junto ao parque tecnológico da Paraíba. Graças a essa bolsa consegui me manter na universidade até a conclusão, mesmo durante a pandemia.
 
-Ao longo do último ano construí mais de 20 projetos web Full Stack com outros programadores do país inteiro. No momento, estou em 90% do curso de formação Full Stack pela Driven Education e procurando uma vaga no mercado de trabalho para atuar profissionalmente na área de desenvolvimento.
+Atualmente estou trabalhando na área como Programador Full Stack Junior aplicando meus conhecimentos em JavaScript, TypeScript, NodeJs, OpenUi5, Bancos SQL, entre outros. Meus objetivos para o futuro são fazer uma graduação e me tornar referência na área, um passo de cada vez. Meu grande objetivo é me tornar um lider técnico, capaz de resolver mútiplos problemas e encontrar as melhores soluções.
 
 ### Meus contatos
 <div align="left">
